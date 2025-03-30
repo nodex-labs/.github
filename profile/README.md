@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="120" alt="Nodex Labs Logo" src="https://raw.githubusercontent.com/nodex-labs/brand/4664bcaa1c79b03f8c7b4f4b6dc1ed9b1a5ec397/nodex-logo.svg?token=AOW2VXQAVGMCYLUAYOY2A7DH5DO76">  
+  <img width="120" alt="Nodex Labs Logo" src="https://github.com/nodex-labs/brand/blob/main/nodex-logo.svg">  
   <h1>@nodex-labs</h1>
   <p>Next-generation tooling for Node.js</p>
   <a href="https://www.npmjs.com/org/nodex-labs">
