@@ -36,7 +36,6 @@ npx @nodex-labs/create
 
 ### 💬 Join the Community  
 - [Discord](#) *(Coming soon)*  
-- [Twitter @nodex_labs](#) 
 
 ---
 
